@@ -1,0 +1,74 @@
+body{
+  background-color: #b9697e;
+}
+nav{
+  width: 101% ;
+  height: 150%;
+  background-color:black;
+  border:2px solid black  ;
+  font-size: 40px;
+  font-weight: 900;
+  color: white;
+  font-style: Monospace;
+
+}
+img{
+ width: 5% ;
+  height: 7%;
+  float: left;
+}
+.teacher{
+    box-sizing: border-box;
+    border:2px solid black;
+  width: 50% ;
+  height: 50%;
+ position: center;
+ float: right;
+}
+.student{
+    box-sizing: border-box;
+      border:2px solid black  ;
+    border-color: black;
+  width: 50% ;
+  height: 50%;
+   position: center;
+
+}
+.btn1{
+background-color:black;
+box-sizing: border-box;
+      border:2px solid black  ;
+
+height: 50px;
+width: 100px;
+font-size: 20px;
+font-style: bold; 
+font-weight: 900;
+position: bottom;
+
+}
+.btn2{
+background-color:black;
+    box-sizing: border-box;
+      border:2px solid black  ;
+
+height: 50px;
+width: 100px;
+font-size: 20px;
+font-style: bold; 
+font-weight: 900;
+position: center;
+
+}
+.down{
+  position: bottom;
+  float: right;
+  position: center;
+}
+.p{
+  color: #000000;
+   font-size: 20px;
+  font-weight: 1000;
+  font-style: oblique;
+
+}
